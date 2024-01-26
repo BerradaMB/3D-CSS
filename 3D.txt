@@ -1,0 +1,17 @@
+3D
+**********************************************3D*******************************************************************
+the diference between 2D and 3D it's Z axic 
+transform: rotateX(20deg)
+           rotateY(20deg)
+           rotateZ (20deg)=> for 3D rotation
+transform:rotate3d(1,1,1,45deg)=> short hand off rotate x and y and z .
+transform:translateX(20 deg)
+          translatey(20 deg)
+          translatez(20 deg)=>for chaging position of our content 
+transform:translate3d(px,px,px)=>short hand of translat x,y and z.
+backface-visibility:hidden => for make transorfm code hidden 
+transform-style:preserve-3d; => we put it for conserving our code fo 3D .
+PS : form make animation to our content we need to creat a hover and befor the hover zone we need to make 
+ a transition and we give specific option and time .
+transform-origin:right center .=> we cann put it for mor animation for this situation he should move from 
+                                  right to center.
